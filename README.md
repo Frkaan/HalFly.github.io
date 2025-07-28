@@ -1,4 +1,4 @@
-# HalFly.github.io
+# HalFly Home Page
 
 <p align="center">
   <img src="HalFly_Logo.png" alt="App Logo" width="200"/>
@@ -39,7 +39,7 @@ Whether you're aiming for a high score or just trying to survive a few seconds l
 ## 🔐 Privacy Policy
 
 You can find our privacy policy at:  
-[https://frkaan.github.io/privacy-policy.html](https://www.freeprivacypolicy.com/live/cd82e566-4af9-4f6d-86e9-5cee893f85fa))
+[https://frkaan.github.io/privacy-policy.html](https://www.freeprivacypolicy.com/live/cd82e566-4af9-4f6d-86e9-5cee893f85fa)
 
 ---
 
