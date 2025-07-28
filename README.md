@@ -32,19 +32,19 @@ Whether you're aiming for a high score or just trying to survive a few seconds l
 ## 🔗 Google Play Store
 
 **Coming soon**  
-[https://play.google.com/store/apps/details?id=com.yourcompany.flybeyond](#)
+[https://play.google.com/store/apps/details?id=com.ffn.halfly](#)
 
 ---
 
 ## 🔐 Privacy Policy
 
 You can find our privacy policy at:  
-[https://yourusername.github.io/privacy-policy.html](https://yourusername.github.io/privacy-policy.html)
+[https://frkaan.github.io/privacy-policy.html](https://www.freeprivacypolicy.com/live/cd82e566-4af9-4f6d-86e9-5cee893f85fa))
 
 ---
 
 ## 📬 Contact
 
-This game is developed by **Your Studio Name**.  
+This game is developed by **Furkan Akdeniz**.  
 For inquiries or support, please reach out via GitHub or the contact information on our Play Store page once published.
 
