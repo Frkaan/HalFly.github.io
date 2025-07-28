@@ -4,7 +4,7 @@
   <img src="HalFly_Logo.png" alt="App Logo" width="200"/>
 </p>
 
-<h1 align="center">Fly Beyond</h1>
+<h1 align="center">HalFly</h1>
 
 <p align="center">
   Simple but challenging flying game. Test your reflexes and timing!
