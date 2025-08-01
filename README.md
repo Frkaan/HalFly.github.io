@@ -30,15 +30,13 @@ Whether you're aiming for a high score or just trying to survive a few seconds l
 ---
 
 ## 🔗 Google Play Store
-
-**Coming soon**  
 [https://play.google.com/store/apps/details?id=com.ffn.halfly](#)
 
 ---
 
 ## 🔐 Privacy Policy
 
-You can find our privacy policy at:  
+You can find privacy policy at:  
 [https://frkaan.github.io/privacy-policy.html](https://frkaan.github.io/privacy-policy.html)
 
 ---
